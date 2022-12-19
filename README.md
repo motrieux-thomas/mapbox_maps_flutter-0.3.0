@@ -1,3 +1,8 @@
+### Unofficial forked version of mapbox_maps_flutter-0.3.0
+⚠️ This will be deleted when the official repo will be available. 
+Please use https://pub.dev/packages/mapbox_maps_flutter
+The mapbox team is available on this discord channel : https://discord.gg/paz23RrV
+
 # Mapbox Maps SDK Flutter Plugin
 
 The Mapbox Maps SDK Flutter Plugin is an officially developed solution from Mapbox that enables use of our latest Maps SDK product (v10.9.0). It is currently in beta, but can be used in production. The plugin allows developers to embed highly customized maps using a Flutter widget on Android and iOS. 
