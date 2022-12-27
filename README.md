@@ -1,7 +1,6 @@
 ### Unofficial forked version of mapbox_maps_flutter-0.3.0
-⚠️ This will be deleted when the official repo will be available. 
-Please use https://pub.dev/packages/mapbox_maps_flutter
-The mapbox team is available on this discord channel : https://discord.gg/paz23RrV
+⚠️ This will be archived when the official repo will be available. 
+Please use https://pub.dev/packages/mapbox_maps_flutter && https://github.com/mapbox/mapbox-maps-flutter
 
 # Mapbox Maps SDK Flutter Plugin
 
